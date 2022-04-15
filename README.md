@@ -1,6 +1,6 @@
 # Data-Crawling-from-Google-Using-Python
 
-This project aims to get the google search result of product related keywords. 
+This project aims to get the google search result using some product related keywords. 
 
 <img width="734" alt="Screenshot 2022-04-15 at 11 07 30 PM" src="https://user-images.githubusercontent.com/30870497/163588713-ab7293df-f782-49bd-ad00-63bbdea1625b.png">
 

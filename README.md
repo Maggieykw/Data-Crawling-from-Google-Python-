@@ -1,6 +1,10 @@
 # Data-Crawling-from-Google-Using-Python
 
-This project aims to get the google search result of product related keywords. The Python output file ('GoogleSearchResult.csv') will contains the following fields:
+This project aims to get the google search result of product related keywords. 
+
+<img width="734" alt="Screenshot 2022-04-15 at 11 07 30 PM" src="https://user-images.githubusercontent.com/30870497/163588713-ab7293df-f782-49bd-ad00-63bbdea1625b.png">
+
+The Python output file ('GoogleSearchResult.csv') will contains the following fields:
 - Product Name(PN)
 - Search Result by PN  
 - Company Name(CN)
